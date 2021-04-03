@@ -1,0 +1,12 @@
+@url = https://testnet.binance.vision/api/v3
+
+### Test Connectivity
+GET {{url}}/ping
+
+
+### Exchange Info
+GET {{url}}/exchangeInfo
+Content-Type: application/json
+
+
+### END ###
