@@ -1,5 +1,7 @@
 # Binance API Spot Trading
 
+See [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs)
+
 ## Prerequisites
 
 1. Open [https://testnet.binance.vision](https://testnet.binance.vision/) and log in with a GitHub account.
